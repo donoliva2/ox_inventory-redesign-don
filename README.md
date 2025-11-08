@@ -1,3 +1,5 @@
 # ox_inventory-redesign-don
 ox_inventory redesign by don
-https://cdn.discordapp.com/attachments/1417800885953630258/1436608677460054089/image.png?ex=69103997&is=690ee817&hm=770b6c662eb1593e6c2cc82f3872a63c2f22d342c38ef8d32cc1b09b4ff8fd02&
+
+
+<img width="1837" height="939" alt="image" src="https://github.com/user-attachments/assets/1bec94c4-7055-4bc2-8b7b-db1b000cd0e5" />
